@@ -210,7 +210,7 @@ const students = [
   },
   {
     no: "20",
-    name: "Jamalpur ",
+    name: "Siyam Islam ",
     district: "Jamalpur ",
     phone: "01939707648",
     blood: "A+",
