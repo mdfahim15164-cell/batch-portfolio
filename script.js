@@ -299,7 +299,7 @@ const students = [
   {
     no: "28",
     name: "Tasmia Binte Hasan ",
-    district: "Khulna",
+    district: "Kushtia",
     phone: "01537347298",
     blood: "B+",
     image: "images/Tasmia Binte Hasan.jpg",
