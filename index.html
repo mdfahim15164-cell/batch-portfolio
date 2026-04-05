@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CSE 30th Batch | IU Student Portfolio</title>
+  <meta name="description" content="A student portfolio for the CSE 30th Batch at Islamic University, Bangladesh." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <img
+        class="hero-photo"
+        src="images/batch_photo.jpeg"
+        alt="Batch photo"
+        referrerpolicy="no-referrer"
+      />
+      <div class="hero-overlay"></div>
+
+      <div class="hero-content">
+        <div class="hero-brand">
+          <h1>Islamic University, Bangladesh</h1>
+          <h3>CSE 30TH BATCH | IU 39TH BATCH</h3>
+          <h5>Department of Computer Science and Engineering</h5>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="section-header">
+        <div class="header-left">
+          <h2>Batch Portfolio</h2>
+          <span class="count-badge"><strong id="studentCount">0</strong> Students</span>
+        </div>
+
+        <div class="search-wrap">
+          <div class="search-input-container">
+            <span class="search-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="11" cy="11" r="7"></circle>
+                <path d="M20 20l-3.5-3.5"></path>
+              </svg>
+            </span>
+            <input
+              id="searchInput"
+              type="text"
+              placeholder="Search by name or district..."
+              autocomplete="off"
+            />
+          </div>
+        </div>
+      </div>
+
+      <section class="student-grid-wrap">
+  <section id="studentGrid" class="student-grid"></section>
+</section>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
