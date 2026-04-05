@@ -449,8 +449,41 @@ const students = [
     facebook: "https://www.facebook.com/ChandroShikhor.RayGopal",
     instagram: "#",
     linkedin: "https://www.linkedin.com/in/chandro-shikhor-ray-b4ab7b24b"
+  },
+  {
+    no: "42",
+    name: "Maruf Ahmed ",
+    district: "Thakurgaon ",
+    phone: "01980309731",
+    blood: "A+",
+    image: "images/Maruf24.jpg",
+    facebook: "https://www.facebook.com/share/1CNbLtEtik/",
+    instagram: "https://www.instagram.com/d_a_r_k__paradise_?igsh=dG9rbDJwbzhnZ212",
+    linkedin: "#"
+  },
+  {
+    no: "43",
+    name: "Md Abdul Hakim ",
+    district: "Chapai nawabganj ",
+    phone: "01315287567",
+    blood: "B+",
+    image: "images/MDAbdulHakimAli.jpg",
+    facebook: "https://www.facebook.com/share/17XXjUc5Js/",
+    instagram: "#",
+    linkedin: "#"
+  },
+  {
+    no: "44",
+    name: "Tahsin Jaman",
+    district: "Satkhira",
+    phone: "01302364660",
+    blood: "O+",
+    image: "images/Tahsin Jaman.jpg",
+    facebook: "https://www.facebook.com/share/14cAbdpijFb/",
+    instagram: "#",
+    linkedin: "#"
   }
-
+  
 ];
 
 const studentGrid = document.getElementById("studentGrid");
