@@ -482,6 +482,17 @@ const students = [
     facebook: "https://www.facebook.com/share/14cAbdpijFb/",
     instagram: "#",
     linkedin: "#"
+  },
+  {
+    no: "46",
+    name: "Piyal Hasan",
+    district: "Jhenaidah ",
+    phone: "01775259016",
+    blood: "O+",
+    image: "images/piyal_hasan.jpg",
+    facebook: "https://www.facebook.com/share/1E34AEtKuY/",
+    instagram: "#",
+    linkedin: "#"
   }
   
 ];
