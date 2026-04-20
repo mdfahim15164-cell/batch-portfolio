@@ -484,13 +484,35 @@ const students = [
     linkedin: "#"
   },
   {
-    no: "46",
+    no: "45",
     name: "Piyal Hasan",
     district: "Jhenaidah ",
     phone: "01775259016",
     blood: "O+",
     image: "images/piyal_hasan.jpg",
     facebook: "https://www.facebook.com/share/1E34AEtKuY/",
+    instagram: "#",
+    linkedin: "#"
+  },
+  {
+    no: "46",
+    name: "Mominul Islam",
+    district: "Kurigram",
+    phone: "01979356206",
+    blood: "B+",
+    image: "images/Mominul Islam.jpg",
+    facebook: "https://www.facebook.com/profile.php?id=61579234713211",
+    instagram: "#",
+    linkedin: "#"
+  },
+  {
+    no: "47",
+    name: "Md Rayhan",
+    district: "Jamalpur",
+    phone: "01990081243",
+    blood: "O+",
+    image: "images/MD. Rayhan.jpg",
+    facebook: "https://www.facebook.com/share/1FBUvWdep2/",
     instagram: "#",
     linkedin: "#"
   }
